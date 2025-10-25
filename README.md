@@ -1,7 +1,8 @@
 # Jetpack Joyride Clone (Unity)
 
 A simplified clone of the classic Jetpack Joyride game made in Unity using C#.  
-🚀 Obstacles like rockets and lasers, smooth background scrolling, object pooling, scoring system, animations, and particles.
+Obstacles like rockets and lasers, smooth background scrolling, scoring system, animations, and particles.
+[1.gif]
 
 ## 🎮 Features
 - Jetpack-powered flying
@@ -9,19 +10,19 @@ A simplified clone of the classic Jetpack Joyride game made in Unity using C#.
 - Lasers with random positions and rotation
 - Procedural obstacle generation
 - Score system and UI
-- Object pooling for performance
 - Basic animation + particle system for jetpack effect
 
 ## 🛠️ Tech Stack
-- Unity 2021+
+- Unity 2022
 - C#
 - Unity’s 2D tools
 - Git for version control
 
 ## 📸 Screenshots
-(Add a few screenshots or GIFs here!)
+[2.gif]
 
 ## 🎯 Future Improvements
+- This project was mainly focused on learning clean coding and procedural generation.
 - Add powerups (shield, magnet, etc)
 - Better art and polish
 - Mobile export
