@@ -2,7 +2,8 @@
 
 A simplified clone of the classic Jetpack Joyride game made in Unity using C#.  
 Obstacles like rockets and lasers, smooth background scrolling, scoring system, animations, and particles.
-[1.gif](1.gif)
+
+![Jetpack](1.gif)
 
 ## 🎮 Features
 - Jetpack-powered flying
@@ -19,7 +20,8 @@ Obstacles like rockets and lasers, smooth background scrolling, scoring system, 
 - Git for version control
 
 ## 📸 Screenshots
-[2.gif](2.gif)
+
+![Jetpack](2.gif)
 
 ## 🎯 Future Improvements
 - This project was mainly focused on learning clean coding and procedural generation.
